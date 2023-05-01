@@ -1,6 +1,6 @@
 # PWEB-7-CRUD
 
-Repository ini menampung tugas kelima mata kuliah pemrograman web yang berupa
+Repository ini menampung tugas ketujuh mata kuliah pemrograman web yang berupa
 website CRUD sederhana menggunakan HTML, CSS, serta PHP.
 milik:
 
